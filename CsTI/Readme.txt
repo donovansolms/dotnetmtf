@@ -1,0 +1,1 @@
+To compile, just change the paths to where your Touchlib.lib, Touchlib.dll and Touchlib headers are.

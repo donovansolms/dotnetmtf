@@ -1,0 +1,6 @@
+; TouchlibWrapper.def : Declares the module parameters for the DLL.
+
+LIBRARY      "TouchlibWrapper"
+
+EXPORTS
+    ; Explicit exports can go here
