@@ -1,0 +1,6 @@
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\obj\Release\ResolveAssemblyReference.cache
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\obj\Release\NUIGroup.Properties.Resources.resources
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\obj\Release\MultitouchFramework.csproj.GenerateResource.Cache
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\bin\Release\MultitouchFramework.dll
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\bin\Release\CsTI.dll
+C:\MultitouchSDK\net3-5\MultitouchFramework\MultitouchFramework\MultitouchFramework\obj\Release\MultitouchFramework.dll

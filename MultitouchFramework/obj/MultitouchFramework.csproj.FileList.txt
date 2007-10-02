@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NUIGroup.Properties.Resources.resources
+obj\Debug\MultitouchFramework.csproj.GenerateResource.Cache
+.\bin\Debug\MultitouchFramework.dll
+.\bin\Debug\MultitouchFramework.pdb
+obj\Debug\MultitouchFramework.dll
+obj\Debug\MultitouchFramework.pdb
